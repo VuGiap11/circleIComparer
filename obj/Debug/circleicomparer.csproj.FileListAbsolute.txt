@@ -1,0 +1,3 @@
+C:\Users\tuan\Desktop\circleicomparer\obj\Debug\circleicomparer.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\circleicomparer\obj\Debug\circleicomparer.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\circleicomparer\obj\Debug\circleicomparer.csproj.CoreCompileInputs.cache
